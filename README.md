@@ -1,2 +1,2 @@
 # hellojnu
-a social network for my college
+a social network 
